@@ -17,3 +17,12 @@ A simple Java-based calculator that performs basic arithmetic operations using  
 - Java (JDK 8 or above)
 - IDE (e.g., IntelliJ IDEA / VS Code / Eclipse)
 - Terminal / Command Prompt for running
+
+Learning Outcome
+Understanding Java methods and return values
+
+Using Scanner for input handling
+
+Applying control structures (switch, while, if)
+
+Improving logical thinking for error handling
